@@ -1,0 +1,76 @@
+@options
+@packages
+@argfile
+-classpath
+'d:/USERS/LORENA/.m2/repository/mysql/mysql-connector-java/8.0.13/mysql-connector-java-8.0.13.jar;d:/USERS/LORENA/.m2/repository/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'15'
+-sourcepath
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ProyectoFinal 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/15/docs/api' 'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ProyectoFinal 1.0-SNAPSHOT API'
+Objetos
+Excepciones
+Test
+AccesoDatos
+Negocio
+MYSQL
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java/Objetos/ClientesDTO.java'
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java/Objetos/EmpleadosDTO.java'
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java/Objetos/PrendasDTO.java'
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java/Objetos/Tallaje.java'
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java/Objetos/OrderDTO.java'
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java/Excepciones/AccesoDatosEx.java'
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java/Excepciones/EscrituraDatosEx.java'
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java/Excepciones/LecturaDatosEx.java'
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java/Test/Test.java'
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java/AccesoDatos/AccesoDatosImpl.java'
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java/AccesoDatos/IAccesoDatos.java'
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java/Negocio/CatalogoTiendaImp.java'
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java/Negocio/ICatalogoTienda.java'
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java/MYSQL/ClientesDAO.java'
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java/MYSQL/EmpleadosDAOJDBC.java'
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java/MYSQL/Conexion.java'
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java/MYSQL/ClientesDAOJDBC.java'
+'F:/Segunda Evaluacion/Acceso a datos/Proyectos/NuevaBD/src/main/java/MYSQL/EmpleadosDAO.java'
+d:\USERS\LORENA\.m2\repository\mysql\mysql-connector-java\8.0.13\mysql-connector-java-8.0.13.jar = 1637265774844
+d:\USERS\LORENA\.m2\repository\com\google\protobuf\protobuf-java\3.6.1\protobuf-java-3.6.1.jar = 1637265267624
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\src\main\java = 1637530240000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\element-list = 1637955490000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\constant-values.html = 1637955490000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\serialized-form.html = 1637955490000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\overview-tree.html = 1637955492000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\deprecated-list.html = 1637955492000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\index.html = 1637955492000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\module-search-index.js = 1637955492000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\package-search-index.js = 1637955492000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\type-search-index.js = 1637955492000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\member-search-index.js = 1637955492000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\tag-search-index.js = 1637955492000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\index-all.html = 1637955492000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\allclasses-index.html = 1637955492000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\allpackages-index.html = 1637955492000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\overview-summary.html = 1637955492000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\help-doc.html = 1637955492000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\stylesheet.css = 1637955492000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\script.js = 1637955492000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\search.js = 1637955492000
+F:\Segunda Evaluacion\Acceso a datos\Proyectos\NuevaBD\target\site\apidocs\jquery-ui.overrides.css = 1637955492000
